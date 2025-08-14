@@ -14,7 +14,7 @@
 
 @layer components {
   .prose-content {
-    @apply prose prose-gray max-w-none;
+    @apply prose prose-gray prose-lg max-w-none;
   }
   
   .prose-content h1 {
